@@ -1,0 +1,35 @@
+.title {
+	font-weight:bold;
+	font-size: 35px	;
+}
+
+img {
+	border:5px;
+}
+
+li {
+	color: white;
+	font-size: 20px;
+}
+
+p {
+	color: white;
+	font-size: 20px;
+}
+
+body {
+	background-color:#262626;
+}
+
+h1 {
+	color:#006600;
+	font-family: Times New Roman;
+	font-size:100px;
+	font-weight:bold;
+}
+
+h2 {
+	color:#006600;
+	font-family: Times New Roman;
+	font-size:25px;
+}
